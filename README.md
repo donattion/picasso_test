@@ -65,7 +65,7 @@ DB_PORT=5432</pre>
 ---
 ### API эндпоинты:
 
-`http://localhost:5000/api/file` - список загруженных файлов.
+`http://localhost:5000/api/files` - список загруженных файлов.
 
 `http://localhost:5000/api/upload` - загрузка файла.
 
